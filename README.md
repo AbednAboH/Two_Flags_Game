@@ -17,6 +17,8 @@ This project uses a tcp/ip connection to a server and sends the moves to a local
 * There is an exe file in the repositry with the full game , no need for installation/creating the exe file.
 * The server can be found in Two_Flags_Game\ai\enpassant and also another version of the code placed in seperate py files for conviniance.
 * there is also a Prerecorded game in the main repository.
+* instrucitons on how to use the GUI below are found in the word document placed in the main repository Plus a more in depth explination of the full project . 
+
 GUI :
 ![image](https://github.com/AbednAboH/Two_Flags_Game/assets/92520508/7408989f-e56a-48fb-a0ce-b04fd0a53c7d)
 

@@ -1,0 +1,9 @@
+Two Flags Game:
+
+Using ai concepts and algorithm we created a Chess game with only bishops that uses ai algorithms to detirmine its next move.
+
+Algorthims used :
+  * Nega-MinMax
+  * Zubrist hash keys and table
+  * Evaluation Funcitons 
+  * Bitbaords for faster performance 

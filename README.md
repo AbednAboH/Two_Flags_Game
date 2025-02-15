@@ -104,7 +104,8 @@ python Client.py --connect --ip 127.0.0.1
 🚀 **Improved Threat Analysis**: Implement more advanced heuristics for evaluating board threats.  
 
 ---
-GUI :
+#### GUI :
+
 ![image](https://github.com/AbednAboH/Two_Flags_Game/assets/92520508/7408989f-e56a-48fb-a0ce-b04fd0a53c7d)
 
 
@@ -113,5 +114,6 @@ GUI :
 
 ![image](https://github.com/AbednAboH/Two_Flags_Game/assets/92520508/b03ccc7d-f6e4-4794-be00-d31a24fd093a)
 
+#### A Demo:
 
-
+https://github.com/AbednAboH/Two_Flags_Game/blob/main/awsome%20game%20by%20black%20ai.mp4
